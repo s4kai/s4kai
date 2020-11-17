@@ -1,4 +1,4 @@
-# Hi everyon, I'm Vinicius Sakai 👋
+# Hi everyone, I'm Vinicius Sakai 👋
 
 A back-end student and developer who loves new technologies and challenges that make me think, transform and increase my knowledge
 
