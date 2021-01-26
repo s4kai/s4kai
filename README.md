@@ -6,5 +6,5 @@ A back-end student and developer who loves new technologies and challenges that 
 
 ---
 
-![Vinicius's github stats](https://github-readme-stats.vercel.app/api?username=viniciussakai&show_icons=true&theme=buefy)
+![Vinicius's github stats](https://github-readme-stats.vercel.app/api?username=viniciussakai&show_icons=true&theme=radical)
 
