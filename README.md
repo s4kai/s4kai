@@ -14,7 +14,7 @@ My name is Vinicius, but everyone calls me **Japa :)**
 
 #### Do you need some help?
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blueviolet?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-sakai/) [![Email Badge](https://img.shields.io/badge/Email-vinicius.sakai@tuta.io-blueviolet)](mailto:vinicius.sakai@tuta.io) 
+[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blueviolet?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-sakai/) [![Email Badge](https://img.shields.io/badge/Email-vinicius.sakai@tuta.io-blueviolet)](mailto:vinicius.sakai@tuta.io) 
 
 
 ## My github stats
