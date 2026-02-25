@@ -19,9 +19,6 @@ My name is Vinicius, but everyone calls me **Japa :)**
 
 ## My github stats
 
-<div align="center">
-  <a href="https://github.com/viniciussakai">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=s4kai&show_icons=true&count_private=true&line_height=30&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s4kai&layout=compact&theme=dark"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=s4kai&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
